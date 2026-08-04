@@ -1,6 +1,7 @@
 # Task 1 - Retail Sales Data Analysis
 
 This folder contains the Retail Sales EDA project completed during the Oasis Infobyte Data Analytics Internship.
+
 ## Project Description
 This project performs Exploratory Data Analysis (EDA) on a retail sales dataset using Python.
 
@@ -20,3 +21,8 @@ This project performs Exploratory Data Analysis (EDA) on a retail sales dataset 
 - Product Category Analysis
 - Correlation Heatmap
 - Business Recommendations
+
+## Dataset Source
+
+This dataset was obtained from Kaggle:
+https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset
